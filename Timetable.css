@@ -1,0 +1,27 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+    margin: auto;
+    background: #935757;
+    color: white;
+    box-shadow: 0px 0px 12px red;
+    margin-top: 15%;
+  }
+  
+  td, th {
+    border: 1px solid #b44646;
+    text-align: center;
+    padding: 8px;
+  }
+  tr:nth-child(even) {
+    background-color: #433c3c;
+  }
+body h2{
+    text-align: center;
+}
+.p{
+    margin: auto;
+    margin-top: 200px;
+    box-shadow: 0px 0px 12px red;
+}
